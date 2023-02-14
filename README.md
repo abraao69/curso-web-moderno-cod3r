@@ -9,7 +9,7 @@ Curso Web Moderno com JavaScript + Projetos disponibilizado pelo mestre em Infor
 
 ## Aplicações e projetos desenvolvidos: :rocket:
 
-### <p align="center"><a href="https://github.com/abraao69/Flappy-Bird-">Flappy Bird<a> &nbsp; | &nbsp; <a href="https://github.com/abraao69/Gerador-de-QR-Code">QR Code Generator</a> &nbsp; | &nbsp; <a href="https://github.com/abraao69/Monty-Hall-">Monty Hall</a> &nbsp; | &nbsp; <a href="https://github.com/ChristopherHauschild/projeto-calculadora-react">Calculator (React)</a> &nbsp; | &nbsp; <a href="https://github.com/ChristopherHauschild/projeto-calculadora-vueJS">Calculator (Vue)</a> &nbsp; | &nbsp; <a href="https://github.com/ChristopherHauschild/projeto-base-conhecimento-cod3r">Base de Conhecimento</a></p>
+### <p align="center"><a href="https://github.com/abraao69/Flappy-Bird-">Flappy Bird<a> &nbsp; | &nbsp; <a href="https://github.com/abraao69/Gerador-de-QR-Code">QR Code Generator</a> &nbsp; | &nbsp; <a href="https://github.com/abraao69/Monty-Hall-">Monty Hall</a> &nbsp; | &nbsp; <a href="https://github.com/abraao69/projeto-calculadora-react">Calculator (React)</a> &nbsp; | &nbsp; <a href="https://github.com/ChristopherHauschild/projeto-calculadora-vueJS">Calculator (Vue)</a> &nbsp; | &nbsp; <a href="https://github.com/ChristopherHauschild/projeto-base-conhecimento-cod3r">Base de Conhecimento</a></p>
 
 ## Tecnologias e linguagens utilizadas :computer:
 
