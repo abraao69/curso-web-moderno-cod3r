@@ -4,7 +4,7 @@ Curso Web Moderno com JavaScript + Projetos disponibilizado pelo mestre em Infor
 
 <hr>
 <p align="center">
- <img width="900px" src="https://github.com/abraao69/curso-web-moderno-cod3r/blob/master/logoC3.png?raw=true" />
+ <img width="900px" src="https://github.com/abraao69" />
 </p>
 
 ## Aplicações e projetos desenvolvidos: :rocket:
